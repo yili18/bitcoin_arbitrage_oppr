@@ -4,7 +4,7 @@
 
 **First, collect data**
 
-Use Pandas and Pathlib liabrary to import functions
+Use >"Pandas" and Pathlib liabrary to import functions
 
 Use read_csv to read the csv file
 
